@@ -1,0 +1,16 @@
+Metadata-Version: 1.0
+Name: LEDController
+Version: 0.1.1
+Summary: Collection of functions to control MAX7219 LED matrices using Python on Raspberry Pi
+Home-page: https://github.com/ismailuddin/raspberrypi/led-matrix/
+Author: Ismail Uddin
+Author-email: ismail.sameeuddin@gmail.com
+License: Apache 2.0
+Description: 
+            A small library of functions for controlling the LED matrices driven by the MAX7219 driver.
+            Dependencies: max7219 (https://github.com/rm-hull/max7219)
+            Complements the PyQt4 GUI LED controller.
+            www.scienceexposure.com
+            
+Keywords: raspberry pi led controller max7219
+Platform: UNKNOWN
